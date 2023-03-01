@@ -5,19 +5,17 @@ int n;
         { 
             Console.WriteLine("Введите чиcло от 1 до 7");   
             if (int.TryParse(Console.ReadLine(), out n)) 
-            { 
-             
-                 
+            {                 
                 if (n > 0 && n < 8)
                 {  
                    if (n > 5) 
                    { 
-                    Console.WriteLine(n + "->" + " Да"); 
+                    Console.WriteLine(n + " ->" + " Да"); 
 break;
                    } 
                    else 
                    { 
-                    Console.WriteLine(n + "->" + " Нет"); 
+                    Console.WriteLine(n + " ->" + " Нет"); 
 break;
                    } 
                      
