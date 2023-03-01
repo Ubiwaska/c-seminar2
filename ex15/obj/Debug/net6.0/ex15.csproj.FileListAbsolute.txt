@@ -1,0 +1,15 @@
+/Users/polinagalkina/Desktop/sem2/ex15/bin/Debug/net6.0/ex15
+/Users/polinagalkina/Desktop/sem2/ex15/bin/Debug/net6.0/ex15.deps.json
+/Users/polinagalkina/Desktop/sem2/ex15/bin/Debug/net6.0/ex15.runtimeconfig.json
+/Users/polinagalkina/Desktop/sem2/ex15/bin/Debug/net6.0/ex15.dll
+/Users/polinagalkina/Desktop/sem2/ex15/bin/Debug/net6.0/ex15.pdb
+/Users/polinagalkina/Desktop/sem2/ex15/obj/Debug/net6.0/ex15.csproj.AssemblyReference.cache
+/Users/polinagalkina/Desktop/sem2/ex15/obj/Debug/net6.0/ex15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polinagalkina/Desktop/sem2/ex15/obj/Debug/net6.0/ex15.AssemblyInfoInputs.cache
+/Users/polinagalkina/Desktop/sem2/ex15/obj/Debug/net6.0/ex15.AssemblyInfo.cs
+/Users/polinagalkina/Desktop/sem2/ex15/obj/Debug/net6.0/ex15.csproj.CoreCompileInputs.cache
+/Users/polinagalkina/Desktop/sem2/ex15/obj/Debug/net6.0/ex15.dll
+/Users/polinagalkina/Desktop/sem2/ex15/obj/Debug/net6.0/refint/ex15.dll
+/Users/polinagalkina/Desktop/sem2/ex15/obj/Debug/net6.0/ex15.pdb
+/Users/polinagalkina/Desktop/sem2/ex15/obj/Debug/net6.0/ex15.genruntimeconfig.cache
+/Users/polinagalkina/Desktop/sem2/ex15/obj/Debug/net6.0/ref/ex15.dll
