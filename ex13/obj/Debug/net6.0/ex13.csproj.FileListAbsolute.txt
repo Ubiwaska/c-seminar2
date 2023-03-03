@@ -1,0 +1,15 @@
+/Users/polinagalkina/Desktop/sem2/ex13/obj/Debug/net6.0/ex13.csproj.AssemblyReference.cache
+/Users/polinagalkina/Desktop/sem2/ex13/obj/Debug/net6.0/ex13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polinagalkina/Desktop/sem2/ex13/obj/Debug/net6.0/ex13.AssemblyInfoInputs.cache
+/Users/polinagalkina/Desktop/sem2/ex13/obj/Debug/net6.0/ex13.AssemblyInfo.cs
+/Users/polinagalkina/Desktop/sem2/ex13/obj/Debug/net6.0/ex13.csproj.CoreCompileInputs.cache
+/Users/polinagalkina/Desktop/sem2/ex13/bin/Debug/net6.0/ex13
+/Users/polinagalkina/Desktop/sem2/ex13/bin/Debug/net6.0/ex13.deps.json
+/Users/polinagalkina/Desktop/sem2/ex13/bin/Debug/net6.0/ex13.runtimeconfig.json
+/Users/polinagalkina/Desktop/sem2/ex13/bin/Debug/net6.0/ex13.dll
+/Users/polinagalkina/Desktop/sem2/ex13/bin/Debug/net6.0/ex13.pdb
+/Users/polinagalkina/Desktop/sem2/ex13/obj/Debug/net6.0/ex13.dll
+/Users/polinagalkina/Desktop/sem2/ex13/obj/Debug/net6.0/refint/ex13.dll
+/Users/polinagalkina/Desktop/sem2/ex13/obj/Debug/net6.0/ex13.pdb
+/Users/polinagalkina/Desktop/sem2/ex13/obj/Debug/net6.0/ex13.genruntimeconfig.cache
+/Users/polinagalkina/Desktop/sem2/ex13/obj/Debug/net6.0/ref/ex13.dll
